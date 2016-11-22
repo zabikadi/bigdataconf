@@ -1,0 +1,10 @@
+.banner-bg {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("images/london.jpeg");
+	background-position: center;
+	background-size: cover;
+	height: 90%;
+}
+
+.hd-bg {
+	background-color: #7f8c8d;
+}
